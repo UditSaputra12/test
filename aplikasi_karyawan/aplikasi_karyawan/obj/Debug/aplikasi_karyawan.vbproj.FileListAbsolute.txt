@@ -1,0 +1,54 @@
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\Udit saputra\semester 3\Visual Basic\Data Visual\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.update_karyawan.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_Lembur.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_gaji.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_rekap_gaji.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+E:\NOVANDRI CAHYADI IC S05\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_gaji.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_rekapgaji.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_gaji.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_jabatan.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_Lembur.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_rekap_gaji.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.update_karyawan.resources
+E:\UDIT SAPUTRA (IC-S05)\visual basic\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
